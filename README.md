@@ -1,4 +1,4 @@
-# React Native Custom Slider
+# React Native Floating Action Button
 
 A customizable React Native slider component with optional styling options.
 
