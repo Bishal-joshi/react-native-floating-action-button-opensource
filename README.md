@@ -1,6 +1,6 @@
 # React Native Floating Action Button
 
-A customizable React Native slider component with optional styling options.
+A customizable React Native floating action button component with optional styling options.
 
 ## Installation
 
