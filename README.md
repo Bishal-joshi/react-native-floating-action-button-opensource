@@ -45,9 +45,9 @@ export default MainScreen;
 1. subButtons (Array)
 An array of objects representing sub-buttons. Each object should have the following properties:
 
-i. label (String): Text to be displayed on the sub-button.
-ii. color (String): Background color of the sub-button (optional, defaults to 'red').
-iii. onPress (Function): Function to be executed when the sub-button is pressed.
+i). label (String): Text to be displayed on the sub-button.
+ii). color (String): Background color of the sub-button (optional, defaults to 'red').
+iii). onPress (Function): Function to be executed when the sub-button is pressed.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
