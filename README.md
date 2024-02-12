@@ -40,7 +40,6 @@ export default MainScreen;
 
 ```
 
-displayText: Text to display next to the minimum and maximum values.
 ## Props
 ### Required Props
 1. subButtons (Array)
